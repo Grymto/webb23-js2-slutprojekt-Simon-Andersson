@@ -1,0 +1,14 @@
+.country{
+    background: rgb(169, 225, 223);
+    width: 15rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+.country:nth-child(odd){
+    margin-right: 1rem;
+}
+
+.country img{
+    max-width: 100%;
+}

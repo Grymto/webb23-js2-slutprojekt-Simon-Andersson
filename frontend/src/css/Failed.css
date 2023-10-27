@@ -1,0 +1,8 @@
+.failed{
+    background-color: rgb(255, 195, 172);
+    text-align: center;
+    width: 50vw;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 5px;
+}
